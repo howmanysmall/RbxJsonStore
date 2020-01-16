@@ -6,11 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["jsonstore", "data"],
   "author": "",
   "license": "ISC",
   "private": false,
   "devDependencies": {
     "@rbxts/types": "^1.0.318"
+  },
+  "dependencies": {
+    "@rbxts/t": "^1.2.7"
   }
 }

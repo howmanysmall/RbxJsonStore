@@ -1,0 +1,16 @@
+{
+  "name": "@rbxts/RbxJsonStore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": false,
+  "devDependencies": {
+    "@rbxts/types": "^1.0.318"
+  }
+}

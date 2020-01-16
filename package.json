@@ -1,11 +1,17 @@
 {
-  "name": "@rbxts/RbxJsonStore",
+  "name": "@rbxts/rbx-jsonstore",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/index.d.ts",
+  "description": "A JsonStore.io wrapper for Roblox.",
+  "main": "src/init.lua",
+  "typings": "src/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/howmanysmall/RbxJsonStore/"
+  },
+  "homepage": "https://github.com/howmanysmall/RbxJsonStore/README.md",
   "keywords": ["jsonstore", "data"],
   "author": "",
   "license": "ISC",
